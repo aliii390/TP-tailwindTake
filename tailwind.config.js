@@ -8,6 +8,7 @@ module.exports = {
         'bg-masthead': "url('../Take-assets/masthead.jpg')",
         'bg-lg': "url('../Take-assets/box-bg-lg.jpg')",
         'bg-box': "url('../Take-assets/box-bg.jpg')",
+        'bg-full': "url('../Take-assets/full-image.jpg')",
       }
     },
   },
