@@ -637,6 +637,10 @@ video {
   background-image: url('../Take-assets/masthead.jpg');
 }
 
+.bg-bg-full {
+  background-image: url('../Take-assets/full-image.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
